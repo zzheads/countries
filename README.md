@@ -1,3 +1,3 @@
 # countries
 This is my first project from Java Techdegree course on Treehouse.com
-Uses Spring Framework, deployed on Heroku
+Uses Spring Framework, deployed on Heroku at https://zzheads-countries.herokuapp.com/
